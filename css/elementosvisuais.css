@@ -1,0 +1,10 @@
+body{
+    background-image:url('../img/engracado-personagem-de-desenho-animado-de-cao-pastor-alemao-mochileiro_183364-80976.avif') ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+
+}
+section{
+    height: 100vh;
+}

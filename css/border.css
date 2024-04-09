@@ -1,0 +1,12 @@
+h1{
+    border-top: 5px dashed rgb(80, 33, 182);
+    border-right: 10px dotted brown;
+    border-bottom:20px solid blue;
+    border-left: 5px double cadetblue;
+}
+
+
+h2{
+    border: 5px solid rebeccapurple;
+
+}

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color: #1B7F79;
+    color: #38184C;
+    font-family: "roboto";
+    
+}
+
+h1, h2 {
+
+    font-family: "Merriweather", serif;
+    background-color: #1815be;
+    color: #bccac9;
+    }
+    
+
+p{
+    text-align: justify;
+    font-size: 20px;
+    color: rgb(125, 69, 69);
+}
+
+
