@@ -1,0 +1,22 @@
+*{
+    margin:0 ;
+    padding:0 ;
+    box-sizing:border-box ;}
+
+:root{
+    --cor-primary:#D9043D;
+    --cor-secondary:#F299A0;
+    --cor-tertiary:#F2DCE0;
+    --fonte-tamanho:1.5rem;
+}
+
+body{
+    background-color: rgb(231, 231, 231);
+}
+
+h1{
+    color: var(--cor-primary);
+}
+p{
+    font-size: var(--fonte-tamanho);  
+}
