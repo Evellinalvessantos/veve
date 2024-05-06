@@ -1,0 +1,44 @@
+container{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: flex;
+   flex-direction: column;
+   background-color: blueviolet;
+   margin: 1px solid;  
+   /* flex-flow: row;  */
+  justify-content: start;
+  /* flex-wrap: wrap-reverse; */
+  align-items: center;
+  /* flex-direction: row; */
+/* flex-direction: column;  */
+/* testando o Flex  */
+/* flex-direction: column-reverse; */
+/* flex-direction: row; */
+/* flex-direction: column-reverse; */
+/* /* flex-wrap: nowrap; */
+}
+
+.box{
+    padding: 10px;
+    margin: 10px;
+    color:rgb(16, 12, 4);
+    height: 100px;
+    width: 100px;
+    border:2px solid purple
+
+}
+
+.box1{
+  background-color: blueviolet;
+   
+}
+
+.box2{
+   background-color: darkred;
+ }
+
+.box3{
+   background-color: palevioletred;
+
+} 
